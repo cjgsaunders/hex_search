@@ -27,6 +27,7 @@ W A S D Q E to move.
 Enter to start the chase
 
 --------Further Development--------
+
 I would like to add a GUI to adjust and display settings
 
 ![](hex_search.gif)
