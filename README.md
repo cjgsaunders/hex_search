@@ -11,6 +11,7 @@ Hexagonal grids are offset, so I offset the nodes in the data structure. This le
 Settings can be adjusted through the file.
 
 --------Controls--------
+
 left click to place the start
 left click again to place the goal
 left click again to place walls
